@@ -4,15 +4,15 @@
 
 ## Overview
 
+An ecommerce backend database using Object Relational Mapping
 
 ## Installation
 
-- Clone the Project.
+- Clone this repository
 - Rename the .env.EXAMPLE to .env
-- Then add MySQL username, and MySQL password to an environment variable(.env) file
-- Then use npm install in terminal to install the project.
-- Then use node seeds/index.js to seed some data into the database
-
+- Update .env file with your MySQL username, and MySQL password
+- Once in terminal, run npm install to install program requirments and dependencies
+- Once dependencies are installed, use node seeds/index.js to seed data into the database
 
 ## License
 
