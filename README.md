@@ -14,6 +14,12 @@ An ecommerce backend database using Object Relational Mapping
 - Once in terminal, run npm install to install program requirments and dependencies
 - Once dependencies are installed, use node seeds/index.js to seed data into the database
 
+## Credits
+
+#### Trishane Wijeyawickrema
+Link to [Github Repository](https://github.com/Trishaneww/professional-portfolio)
+
+
 ## License
 
 N/A
